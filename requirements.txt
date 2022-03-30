@@ -1,0 +1,6 @@
+pyyaml
+pandas
+bluepy
+subus2
+google-api-python-client
+google-auth-oauthlib
